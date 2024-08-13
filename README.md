@@ -1,5 +1,5 @@
-# Coffee-Shop-Sales
-I completed a project on Coffee Shop Sales Analysis using Excel and advanced Excel concepts. In this project, I analyzed and created a dashboard using Power Query, Measures, Pivot Charts, Slicers, etc.
+# Coffee-Shop-Sales 
+This project is on Coffee Shop Sales Analysis using Excel and advanced Excel concepts. In this project, I analyzed and created a dashboard using Power Query, Data Model, Measures, Pivot Charts, Slicers, etc.
 
 First and foremost, I cleaned the data in Power Query Editor by removing blanks, changing data types, adding new columns, etc. After that, I loaded the data and added it to the data model. Then, I created pivot tables based on the data.
 
